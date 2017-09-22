@@ -1,4 +1,4 @@
 # Camera
 PRODUCT_PACKAGES += \
-    SnapdragonCamera
+    Camera2
 
